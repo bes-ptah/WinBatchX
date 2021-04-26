@@ -50,7 +50,7 @@ echo Please Wait... ^\
 IF %_build%==1528 goto 0x00
 cls
 echo Please Wait... ^\
-IF %_build%==1530 set update.exe=0x01
+IF %_build%==1530 set update.exe=0x01 &exit /b
 SET update=error
 exit /b
 

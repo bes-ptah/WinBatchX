@@ -15,11 +15,11 @@ IF %_build%==1538 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /
 IF %_build%==1540 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
 IF %_build%==1542 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
 IF %_build%==1544 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
-IF %_build%==1546 set update.exe=0x01 &set update-status-action.exe=0x01 &exit /b
-IF %_build%==1548 set update.exe=0x01 &set update-status-action.exe=0x01 &exit /b
-IF %_build%==1550 set update.exe=0x01 &set update-status-action.exe=0x01 &exit /b
-IF %_build%==1554 set update.exe=0x01 &set update-status-action.exe=0x01 &exit /b
-IF %_build%==1556 set update.exe=0x01 &set update-status-action.exe=0x01 &exit /b
+IF %_build%==1546 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
+IF %_build%==1548 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
+IF %_build%==1550 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
+IF %_build%==1554 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
+IF %_build%==1556 set update.exe=0x02 &set update-status-action.exe=0x02 &exit /b
 
 SET update=0x3
 exit /b

@@ -1,1 +1,1 @@
-WinBatchX-Respository has moved into https://github.com/bes-ptah/WinBatchX
+WinBatchX-Respository has moved into https://github.com/bes-ptah/winbatchOS

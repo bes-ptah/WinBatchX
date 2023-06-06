@@ -1,12 +1,6 @@
 ECHO OFF
 
-set "Newest-Version-Release=Announcing WinBatchX 19, Version 2305"
-set "Newest-Build-Release=Announcing WinBatchOS 11 Preview Build 10008"
-set "Special-News=WinBatchX 19, Version 2305 was released. Check via WinBatchX Update to get started"
 
-set "Newest-Version-Release-Link=https://github.com/bes-ptah/WinBatchOS/releases/tag/1900.251"
-set "Newest-Build-Release-Link=https://github.com/bes-ptah/WinBatchOS/releases/tag/23.0.10008.100"
-set "Special-News-Link=Not available."
 
 rem 0x0 Supported.
 rem 0x1 Not latest release.
